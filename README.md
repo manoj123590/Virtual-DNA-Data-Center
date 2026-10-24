@@ -149,7 +149,7 @@ The paper proposes:
 
 Add the PDF to a folder such as `docs/` in your repository and link it here, updating the path to match the uploaded filename:
 
-- **Research paper:** [`docs/research-paper.pdf`](docs/research-paper.pdf)
+- **Research paper:** [`docs/research-paper.pdf`](https://drive.google.com/file/d/1oP3XdWEeWdG6Nh4nYL2SWTz982Bc6xdX/view?usp=sharing)
 
 ## References
 
